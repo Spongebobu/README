@@ -7,7 +7,9 @@
 2. Hitman
 3. Chuck Norris
 4. Jim Carrey
-***
+
+
+
 ###Ausgaben für Nahrung
 | Nahrung | Stückzahl | Preis |
 | ------------- |:-------------:| -----:|
